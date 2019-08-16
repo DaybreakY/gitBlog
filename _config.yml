@@ -152,7 +152,7 @@ katex: # KaTeX
 sidebar:
   avatar: # 侧边栏显示的头像
     enable: true
-    img: //admin.wehealthgene.com/upload/89943cab24ec4c5f71f9cf0e8472df37.jpg # 头像的地址
+    img: http://admin.wehealthgene.com/upload/89943cab24ec4c5f71f9cf0e8472df37.jpg # 头像的地址
     info: <br>IT搬砖猿<br>PHPer<br>二次元伪宅<br>汉服复兴运动参与者<br>仙四死忠<br>轻·古风 # 头像背后的信息
   description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=52 src="//music.163.com/outchain/player?type=0&id=155059595&auto=0&height=32"></iframe>'
   social:
