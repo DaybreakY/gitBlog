@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 今、情热が岚になって
+title: 晨风拂面，炽阳警心
 showtag:
-- ICPC模板
+- 杂记
 ---
 ## 近期
 
