@@ -114,9 +114,9 @@ script: # 需要在正文后调用的脚本
 - src: //cdn.jsdelivr.net/npm/prismjs/plugins/autoloader/prism-autoloader.min.js
 - src: //cdn.jsdelivr.net/npm/prismjs/plugins/line-numbers/prism-line-numbers.min.js
 - src: //cdn.jsdelivr.net/npm/prismjs/plugins/toolbar/prism-toolbar.min.js
-- src: /public/js/prism.js
-- src: /public/js/mermaid.js
-- src: /public/js/katex.js
+- src: /gitBlog/public/js/prism.js
+- src: /gitBlog/public/js/mermaid.js
+- src: /gitBlog/public/js/katex.js
 
 mermaid: # https://github.com/knsv/mermaid
   enable: true
