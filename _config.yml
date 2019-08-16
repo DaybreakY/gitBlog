@@ -1,5 +1,5 @@
 title: daybreaky
-url: https://daybreaky.github.io
+url: https://daybreaky.github.io/gitBlog
 baseurl: '' # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/public`前也要加，即`/your_baseurl/public`。这一项结尾不要有'/'
 author: chineYoung
 
@@ -63,7 +63,7 @@ head: # 删改前确定知道自己在做什么
   - key: rel
     value: apple-touch-icon-precomposed
   - key: href
-    value: //www.gravatar.com/avatar/a12c5fff23dde00df79af9aca4e7b6e4?d=wavatar&s=144
+    value: https://avatars2.githubusercontent.com/u/23623589
 - tag: link # 小图标，同上
   var:
   - key: rel
@@ -152,9 +152,9 @@ katex: # KaTeX
 sidebar:
   avatar: # 侧边栏显示的头像
     enable: true
-    img: http://admin.wehealthgene.com/upload/89943cab24ec4c5f71f9cf0e8472df37.jpg # 头像的地址
+    img: https://avatars2.githubusercontent.com/u/23623589 # 头像的地址
     info: <br>IT搬砖猿<br>PHPer<br>二次元伪宅<br>汉服复兴运动参与者<br>仙四死忠<br>轻·古风 # 头像背后的信息
-  description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=52 src="//music.163.com/outchain/player?type=0&id=155059595&auto=0&height=32"></iframe>'
+  description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=52 src="http://wsaudio.bssdlbig.kugou.com/1908161608/tZipsY6H9dWRwX8QM7-gRA/1566029310/bss/extname/wsaudio/558ae5d446b32501d4272e6281dfb16d.mp3"></iframe>'
   social:
   - title: rss # rss
     href: /atom.xml
